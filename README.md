@@ -8,8 +8,6 @@ It's being made for the Wii (mainly), Gamecube, Switch, Android and PC platforms
 
 [GRRLIB](https://github.com/GRRLIB/GRRLIB) - A graphic library for Wii homebrew game development
 
-[GRRLIB for Gamecube](https://github.com/capz/GRRLIB) - A port of the graphic library for Wii to Gamecube
-
 [Game Maker Studio 2023.6](https://gms.yoyogames.com/GameMaker-Installer-2023.6.0.92.exe) - A Famous game engine focused on 2D game development
 
 ### Current progress
